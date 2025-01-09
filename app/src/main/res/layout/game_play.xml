@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.8"
+        android:background="@color/white"
+        android:gravity="center">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#BBBBBB"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp">
+
+            <LinearLayout
+                android:layout_width="1.9in"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:text="Want to Play"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/numberChoose"
+                        android:layout_width="1.9in"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/black"
+                        android:text="Right or Wrong"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        app:cornerRadius="5dp" />
+
+                    <Button
+                        android:id="@+id/tictactoe"
+                        android:layout_width="1.9in"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/black"
+                        android:text="Tic Tak Toe "
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        app:cornerRadius="5dp" />
+
+                    <Button
+                        android:id="@+id/memory"
+                        android:layout_width="1.9in"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/black"
+                        android:text="Memory Game"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        app:cornerRadius="5dp" />
+
+                    <Button
+                        android:id="@+id/word"
+                        android:layout_width="1.9in"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/black"
+                        android:text="Word Scramble"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        app:cornerRadius="5dp" />
+
+                    <Button
+                        android:id="@+id/typing"
+                        android:layout_width="1.9in"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/black"
+                        android:text="Rock Paper Scissor"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        app:cornerRadius="5dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+
+</LinearLayout>

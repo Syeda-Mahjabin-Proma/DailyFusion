@@ -21,6 +21,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".calcBMI" />
+        <activity android:name=".health_check" />
+        <activity android:name=".calcBMR" />
+        <activity android:name=".water_need" />
+        <activity android:name=".calcBSA" />
+        <activity android:name=".calories_burn" />
+        <activity android:name=".gameplay" />
+        <activity android:name=".right_wrong" />
+        <activity android:name=".tictactoe" />
+        <activity android:name=".memory" />
+        <activity android:name=".word_game" />
+        <activity android:name=".rock_paper_scissor" />
+        <activity android:name=".calcMoney" />
+        <activity android:name=".motivate" />
+        <activity android:name=".workList" />
     </application>
 
 </manifest>
