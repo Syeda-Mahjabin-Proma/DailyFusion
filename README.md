@@ -6,6 +6,8 @@ including engaging games, health calculators, task management tools, motivationa
 interactive components, DailyFusion can be the perfect companion for your daily tasks and entertainment.
 
 ---
+## Download the App in Your Android Device: [Daily Fusion](https://drive.google.com/file/d/1wxX5On6WF2_DfcZLaUkiPPRCi8Kh3pZY/view?usp=sharing)
+---
 
 ## Features
 
