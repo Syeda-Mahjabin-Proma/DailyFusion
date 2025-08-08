@@ -85,6 +85,12 @@ Organize users tasks efficiently:
 
 ---
 
+## Sample Pictures:
+![Daily_Fusion](https://github.com/user-attachments/assets/26eab377-bbfe-4334-8d29-d3b4a7bef26b)
+
+---
+
+
 ## How to Contribute
 1. Fork the repository.
 2. Create a new branch:
