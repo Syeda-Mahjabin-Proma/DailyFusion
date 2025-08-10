@@ -2,7 +2,7 @@
 
 ## Overview
 **DailyFusion** is an all in one Android application designed to entertain, motivate, and assist users in their daily lives. It offers a variety of features, 
-including engaging games, health calculators, task management tools, motivational quotes, and a change calculator. With a user-friendly interface and 
+including engaging games, health calculators, task management tools, motivational quotes and a change calculator. With a user-friendly interface and 
 interactive components, DailyFusion can be the perfect companion for your daily tasks and entertainment.
 
 ---
