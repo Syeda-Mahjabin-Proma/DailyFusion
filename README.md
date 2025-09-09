@@ -1,4 +1,4 @@
-# DailyFusion Android App
+# Daily Fusion Android App
 
 ## Overview
 **DailyFusion** is an all in one Android application designed to entertain, motivate, and assist users in their daily lives. It offers a variety of features, 
